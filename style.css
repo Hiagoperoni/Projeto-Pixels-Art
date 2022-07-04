@@ -34,13 +34,13 @@
   display: inline-block;
 }
 
-#divsEmBranco {
+#pixel-board {
   position: relative;
-  height: 230px;
-  width: 230px;
+  height: 240px;
+  width: 240px;
 }
 
-.emBranco {
+.pixel {
   background-color: white;
   height: 40px;
   width: 40px;
