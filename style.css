@@ -1,0 +1,50 @@
+#cor-1 {
+  background-color: black;
+  height: 40px;
+  width: 40px;
+  border: 1px solid black;
+  position: relative;
+  display: inline-block;
+}
+
+#cor-2 {
+  background-color: blue;
+  height: 40px;
+  width: 40px;
+  border: 1px solid black;
+  position: relative;
+  display: inline-block;
+}
+
+#cor-3 {
+  background-color: red;
+  height: 40px;
+  width: 40px;
+  border: 1px solid black;
+  position: relative;
+  display: inline-block;
+}
+
+#cor-4 {
+  background-color: green;
+  height: 40px;
+  width: 40px;
+  border: 1px solid black;
+  position: relative;
+  display: inline-block;
+}
+
+#divsEmBranco {
+  position: relative;
+  height: 230px;
+  width: 230px;
+}
+
+.emBranco {
+  background-color: white;
+  height: 40px;
+  width: 40px;
+  border: 1px solid black;
+  position: relative;
+  display: inline-block;
+}
