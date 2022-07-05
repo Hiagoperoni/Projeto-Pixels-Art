@@ -48,14 +48,3 @@ botao.addEventListener('click', limparTudo);
 
 window.onload = pintarPixel, limparTudo;
 
-
-
-
-
-
-
-
-
-
-
-
