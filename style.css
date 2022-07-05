@@ -40,3 +40,7 @@
   position: relative;
   display: inline-block;
 }
+
+#clear-board {
+  margin-right: 100%;
+}
